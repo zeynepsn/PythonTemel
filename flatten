@@ -1,2 +1,0 @@
-def flatten(list)
-  f_list=[]
